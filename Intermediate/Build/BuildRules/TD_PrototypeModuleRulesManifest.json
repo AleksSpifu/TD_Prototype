@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\EksternSSD\\Epic\\Prosjekter\\TD_Prototype\\Source\\TD_Prototype\\TD_Prototype.Build.cs",
+		"C:\\EksternSSD\\Epic\\Prosjekter\\TD_Prototype\\Source\\TD_Prototype.Target.cs",
+		"C:\\EksternSSD\\Epic\\Prosjekter\\TD_Prototype\\Source\\TD_PrototypeEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}

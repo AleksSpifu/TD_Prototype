@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TD_Prototype",
+			"Path": "C:\\EksternSSD\\Epic\\Prosjekter\\TD_Prototype\\Source\\TD_Prototype.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TD_PrototypeEditor",
+			"Path": "C:\\EksternSSD\\Epic\\Prosjekter\\TD_Prototype\\Source\\TD_PrototypeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

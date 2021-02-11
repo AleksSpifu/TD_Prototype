@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TD_Prototype.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3563EB16-7B2A-43B1-A8A9-83D6C9880DFB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TD_Prototype.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TD_PrototypeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BB3DD62A-DAF7-4E5F-A653-372B4518BBCA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TD_Prototype">
+      <UniqueIdentifier>{F27B90AC-5124-4EDC-92DA-9462D4C5991D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TD_Prototype\TD_Prototype.Build.cs">
+      <Filter>Source\TD_Prototype</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TD_Prototype\TD_Prototype.cpp">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TD_Prototype\TD_Prototype.h">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TD_Prototype\TD_PrototypeCharacter.h">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TD_Prototype\TD_PrototypeGameMode.cpp">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TD_Prototype\TD_PrototypeGameMode.h">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TD_Prototype\TD_PrototypeCharacter.cpp">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TD_Prototype\EnemyGoal.cpp">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TD_Prototype\EnemyGoal.h">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TD_Prototype\EnemyAIController.h">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TD_Prototype\EnemyAIController.cpp">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TD_Prototype\Enemy.h">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TD_Prototype\Enemy.cpp">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TD_Prototype\EnemySpawner.h">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TD_Prototype\EnemySpawner.cpp">
+      <Filter>Source\TD_Prototype</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
